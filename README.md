@@ -10,6 +10,8 @@ $ brew tap flight-school/formulae
   A command-line utility for performing named entity recognition on text.
 - **[pos]**:
   A command-line utility for tagging part of speech for words in text.
+- **[sentences]**:
+  A command-line utility for splitting natural language text into sentences.
 
 ## License
 
@@ -21,3 +23,4 @@ Mattt ([@mattt](https://twitter.com/mattt))
 
 [ner]: https://github.com/Flight-School/ner
 [pos]: https://github.com/Flight-School/pos
+[sentences]: https://github.com/Flight-School/sentences

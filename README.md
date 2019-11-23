@@ -6,6 +6,8 @@ $ brew tap flight-school/formulae
 
 ## Currently On Tap
 
+- **[lemma]**
+  Provides the stems of words in natural language text.
 - **[ner]**:
   Extracts names of people, places, and organizations from natural language text.
 - **[pos]**:
@@ -23,6 +25,7 @@ $ brew tap flight-school/formulae
 
 Mattt ([@mattt](https://twitter.com/mattt))
 
+[lemma]: https://github.com/Flight-School/lemma
 [ner]: https://github.com/Flight-School/ner
 [pos]: https://github.com/Flight-School/pos
 [sentences]: https://github.com/Flight-School/sentences

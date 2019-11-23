@@ -1,5 +1,5 @@
 class Pos < Formula
-  desc "Part of speech tagging for words in text"
+  desc "Tags part of speech on words in natural language text."
   homepage "https://github.com/Flight-School/pos"
   url "https://github.com/Flight-School/pos.git", :branch => "master"
   head "https://github.com/Flight-School/pos.git", :shallow => false

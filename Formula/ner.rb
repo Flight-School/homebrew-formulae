@@ -1,5 +1,5 @@
 class Ner < Formula
-  desc "Named entity recognition on text"
+  desc "Extracts names of people, places, and organizations from natural language text."
   homepage "https://github.com/Flight-School/ner"
   url "https://github.com/Flight-School/ner.git", :branch => "master"
   head "https://github.com/Flight-School/ner.git", :shallow => false

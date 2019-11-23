@@ -5,7 +5,7 @@ class Sentiment < Formula
   head "https://github.com/Flight-School/sentiment.git", :shallow => false
   version "0.0.1"
 
-  depends_on :macos => ">= 10.15"
+  depends_on :macos => :catalina
   depends_on :xcode => [">= 11.0", :build]
 
   def install

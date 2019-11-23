@@ -5,7 +5,8 @@ class Sentences < Formula
   head "https://github.com/Flight-School/sentences.git", :shallow => false
   version "0.0.1"
 
-  depends_on :xcode => ["11.0", :build]
+  depends_on :macos => :high_sierra
+  depends_on :xcode => [">= 11.0", :build]
 
   def install
     system "make", "install", "prefix=#{prefix}"
